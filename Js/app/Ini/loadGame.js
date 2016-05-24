@@ -1,15 +1,16 @@
 var constants = require('../Utilities/constants.js'),
-    Item = require('../Models/ItemModel.js');
+    Item = require('../Models/ItemModel.js'),
+    rules = require('../Rules/rules.js');
 
 var items = [
-  new Item({name = constants.dexterityVestPlus5,  sellIn = 10, quality = 20}),
-  new Item({name = constants.agedBrie,            sellIn =  2, quality =  0}),
-  new Item({name = constants.elixirOfTheMongoose, sellIn =  5, quality =  7}),
-  new Item({name = constants.sulfuras,            sellIn =  0, quality = 80}),
-  new Item({name = constants.backstagePasses,     sellIn = 15, quality = 20}),
-  new Item({name = constants.conjuredManaCake,    sellIn =  3, quality =  6}),
+  new Item(constants.dexterityVestPlus5,  10,  20, rules.decreaseQuality, rules.decreaseSellIn, rules.incrementQuality),
+  new Item(constants.agedBrie,             2,   0, rules.incrementQuality, rules.decreaseSellIn, rules.incrementQuality),
+  new Item(constants.elixirOfTheMongoose,  5,   7, rules.decreaseQuality, rules.decreaseSellIn, rules.incrementQuality),
+  new Item(constants.sulfuras,             0,  80, null, null, null),
+  new Item(constants.backstagePasses,     15,  20, rules.increaseQualityBackstage, rules.decreaseSellIn, rules.resetQuality),
+  new Item(constants.conjuredManaCake,    3,    6, rules.decreaseQuality, rules.decreaseSellIn, rules.incrementQuality),
 ];
 
 
-module.export = items;
+module.exports = items;
 

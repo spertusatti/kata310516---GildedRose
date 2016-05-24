@@ -7,4 +7,4 @@ var constants ={
   dexterityVestPlus5: '+5 Dexterity Vest'  
 };
 
-module.export = constants;
+module.exports = constants;
