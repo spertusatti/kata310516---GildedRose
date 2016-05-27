@@ -13,7 +13,6 @@ function Item(name, sellIn, quality, initialModification, decreaseSellIn, qualit
 
 Item.prototype.updateQuality = function updateQuality(){
     var that = this;
-    
     // Initial modification of the quality value
     that.initialModification.call(that);
   
