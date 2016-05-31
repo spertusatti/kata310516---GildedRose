@@ -10,12 +10,10 @@ namespace GildedRose.Console.Strategy
     {
         public void UpdateQuality(Item item)
         {
-            if (item.Quality < 50)
-                item.Quality++;
-
-            item.SellIn--;
-            if (item.SellIn < 0 && item.Quality < 50)
-                item.Quality++;
+            item.IncreaseQuality();
+            item.DecreaseSellin();
+            if (item.SellIn < 0)
+                item.IncreaseQuality();
         }
     }
 }
