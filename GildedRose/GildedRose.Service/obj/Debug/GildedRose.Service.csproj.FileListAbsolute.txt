@@ -1,0 +1,14 @@
+C:\Katas\GildedRose\GildedRose.Service\bin\Debug\GildedRose.Service.dll
+C:\Katas\GildedRose\GildedRose.Service\bin\Debug\GildedRose.Service.pdb
+C:\Katas\GildedRose\GildedRose.Service\bin\Debug\GildedRose.Models.dll
+C:\Katas\GildedRose\GildedRose.Service\bin\Debug\GildedRose.Models.pdb
+C:\Katas\GildedRose\GildedRose.Service\obj\Debug\GildedRose.Service.csprojResolveAssemblyReference.cache
+C:\Katas\GildedRose\GildedRose.Service\obj\Debug\GildedRose.Service.dll
+C:\Katas\GildedRose\GildedRose.Service\obj\Debug\GildedRose.Service.pdb
+C:\temp\GildedRose\GildedRose.Service\bin\Debug\GildedRose.Service.dll
+C:\temp\GildedRose\GildedRose.Service\bin\Debug\GildedRose.Service.pdb
+C:\temp\GildedRose\GildedRose.Service\bin\Debug\GildedRose.Entities.dll
+C:\temp\GildedRose\GildedRose.Service\bin\Debug\GildedRose.Entities.pdb
+C:\temp\GildedRose\GildedRose.Service\obj\Debug\GildedRose.Service.csprojResolveAssemblyReference.cache
+C:\temp\GildedRose\GildedRose.Service\obj\Debug\GildedRose.Service.dll
+C:\temp\GildedRose\GildedRose.Service\obj\Debug\GildedRose.Service.pdb

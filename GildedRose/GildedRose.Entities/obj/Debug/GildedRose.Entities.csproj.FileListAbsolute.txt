@@ -1,0 +1,5 @@
+C:\temp\GildedRose\GildedRose.Entities\bin\Debug\GildedRose.Entities.dll
+C:\temp\GildedRose\GildedRose.Entities\bin\Debug\GildedRose.Entities.pdb
+C:\temp\GildedRose\GildedRose.Entities\obj\Debug\GildedRose.Entities.csprojResolveAssemblyReference.cache
+C:\temp\GildedRose\GildedRose.Entities\obj\Debug\GildedRose.Entities.dll
+C:\temp\GildedRose\GildedRose.Entities\obj\Debug\GildedRose.Entities.pdb

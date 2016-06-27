@@ -1,0 +1,14 @@
+C:\Katas\GildedRose\src\GildedRose.Tests\bin\Debug\xunit.abstractions.dll
+C:\Katas\GildedRose\src\GildedRose.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Katas\GildedRose\src\GildedRose.Tests\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Katas\GildedRose\src\GildedRose.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Katas\GildedRose\src\GildedRose.Tests\bin\Debug\GildedRose.Tests.dll
+C:\Katas\GildedRose\src\GildedRose.Tests\bin\Debug\GildedRose.Tests.pdb
+C:\Katas\GildedRose\src\GildedRose.Tests\bin\Debug\xunit.assert.dll
+C:\Katas\GildedRose\src\GildedRose.Tests\bin\Debug\xunit.core.dll
+C:\Katas\GildedRose\src\GildedRose.Tests\bin\Debug\xunit.assert.pdb
+C:\Katas\GildedRose\src\GildedRose.Tests\bin\Debug\xunit.assert.xml
+C:\Katas\GildedRose\src\GildedRose.Tests\bin\Debug\xunit.core.pdb
+C:\Katas\GildedRose\src\GildedRose.Tests\bin\Debug\xunit.core.xml
+C:\Katas\GildedRose\src\GildedRose.Tests\obj\Debug\GildedRose.Tests.dll
+C:\Katas\GildedRose\src\GildedRose.Tests\obj\Debug\GildedRose.Tests.pdb
